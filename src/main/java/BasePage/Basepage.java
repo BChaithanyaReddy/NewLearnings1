@@ -6,7 +6,8 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 public class Basepage {
 
-  public static WebDriver driver;
+   public static WebDriver driver;
+
 
     public static void SetDriver(){
 
